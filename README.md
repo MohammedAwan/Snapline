@@ -142,4 +142,5 @@ Snapline was built as a **resume-oriented backend project** to demonstrate real-
 ## 👤 Author
 
 **Mohammed Awan Hashir Ali**
+
 Computer Science Engineering (AIML)
