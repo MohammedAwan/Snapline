@@ -12,7 +12,6 @@ Snapline is a backend-only social media application built with **FastAPI**, desi
 * Photo and video upload APIs
 * Chronological media feed
 * Async database operations using SQLAlchemy
-* Clean separation of concerns (routes, models, schemas)
 * Scalable and extensible backend design
 
 ---
@@ -27,8 +26,6 @@ Snapline is a backend-only social media application built with **FastAPI**, desi
 * **Streamlit** – Simple frontend for interacting with the backend
 * **Uvicorn** – ASGI server
 * **uv** – Dependency and environment management
-
----
 
 ---
 
@@ -85,11 +82,9 @@ FastAPI provides interactive API documentation out of the box:
 
 ## 📸 Screenshots
 
-> *Screenshots are illustrative placeholders.*
-
 ### 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login2.png)
 Simple authentication interface for user login.
 
 ### 📰 Feed Page
@@ -99,7 +94,7 @@ Displays a chronological feed of photo and video posts.
 
 ### ⬆️ Upload Page
 
-![Upload Page](screenshots/upload.png)
+![Upload Page](screenshots/upload2.png)
 Allows users to upload photos or videos with captions.
 
 ### 📑 FastAPI Docs – Swagger UI
@@ -148,5 +143,3 @@ Snapline was built as a **resume-oriented backend project** to demonstrate real-
 
 **Mohammed Awan Hashir Ali**
 Computer Science Engineering (AIML)
-
----
